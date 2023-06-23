@@ -1,0 +1,3 @@
+<h3>Qestion :</h3>
+
+Create an interface called “shape” with two abstract methods double “calculatArea()”and double “calculatePerimeter()”. implement that “shape” interface in three classes “Circle”, “Rectangle”and “triangle” Each class should have private instance variables relevant to its shape, and provide public setter and getter for these variables. Additionally, each classes should define a constructor that initialize the instance variables. Write the implementation code for the “shape” interface, the setter and getter methods in each classes. and the constructors in each classes. And the constructor In each class.
