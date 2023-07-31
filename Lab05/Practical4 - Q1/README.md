@@ -1,0 +1,3 @@
+<h3>Question</h3>
+
+Create a class called “Employee” which has 3 private variables (empID, empName, empDesignation) and create getters and setters for each field. Please note that this has no main method since this is just  a blueprint  not a application. Now crate a test class to invoke the Employee class. Create two objects  for Mr.Bogdan and Ms.Bird and set required values using setters  and print them back on the console using getters. 
